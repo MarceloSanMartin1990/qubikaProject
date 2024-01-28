@@ -1,0 +1,17 @@
+{
+  "name": "qubika",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "cypress:open": "cypress open",
+    "tests:report": "npx cypress run --e2e"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.3",
+    "cypress-mochawesome-reporter": "^3.8.1"
+  }
+}
