@@ -1,6 +1,7 @@
 ## Steps for setup and running the test
 
-1. First clone the project with `git clone ` (git needs to be installed).
+1. First clone the project with `git clone ` (git needs to be installed) into a new folder
+that you have created to hold the project.
 1. You also need to have node and npm install.
 1. Using a terminal, step into the project folder.
 1. Run `npm install` in order to install all dependencies.
